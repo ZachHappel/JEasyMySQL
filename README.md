@@ -4,18 +4,8 @@
 
 #### within personal Java applications
 
-### Developed by Zacharie Happel
+#### Developed by Zacharie Happel
 ##
-
-## Preface:
-
-#### This application was developed on Java SE 8, a runtime environment
-
-#### developed by Oracle. Personal design and development of the software
-
-#### was done solely by myself, Zacharie Happel, on a late-2015 MacBook Pro
-
-#### using Eclipse Photon.
 
 #### Purpose:
 
